@@ -1,0 +1,35 @@
+h1 {
+    color:#00FFFF;
+    background-color: #000000;
+}
+
+body{
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+.beautiful-item{
+    font-family: "Times New Roman", Georgia, Serif;
+    color: 	#5F9EA0;
+    background-color: #FFE4C4;
+}
+
+a:link {
+    color: 	#6B8E23;
+}
+
+a:visited {
+    color: 	#FFA500;
+}
+
+a:hover {
+    color: #FFB6C1;
+}
+
+a:active {
+    color: #9370DB;
+}
+
+#importantmsg{
+    font-weight: bold;
+    color: #FF0000;
+}
